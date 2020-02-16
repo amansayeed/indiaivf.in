@@ -1,0 +1,6 @@
+User-agent: *
+Disallow:
+
+sitemap:https://www.indiaivf.in/sitemap.xml
+
+ 
